@@ -26,7 +26,7 @@ export default function HomePage() {
   return (
     <div className="container mx-auto py-8 px-4 md:px-6">
       <header className="mb-8 text-center">
-        <h1 className="text-3xl font-bold mb-2">Goal Tracker</h1>
+        <h1 className="text-3xl font-bold mb-2">Goal Trackers</h1>
         <p className="text-muted-foreground">
           Set project goals, break them down into steps, and track your progress
         </p>
